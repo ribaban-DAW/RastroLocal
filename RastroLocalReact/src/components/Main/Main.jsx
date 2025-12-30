@@ -5,12 +5,12 @@ import PostCardsSection from './PostCardsSection'
 
 export default function Main() {
   return (
-    <main className="main">
+    <>
       <MapSection />
       <CategoriesSection />
       <PostsSection />
       <PostCardsSection />
-    </main>
+    </>
   )
 }
 
