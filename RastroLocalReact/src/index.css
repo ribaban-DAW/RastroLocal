@@ -1,0 +1,31 @@
+:root {
+	--white: white;
+	--green-tint: #f0fdf4;
+	--green-tint-2: #dcfce7;
+	--green: #22c55e;
+	--green-shade: #15803d;
+	--gray: #555;
+
+	--img-size-md: 32px;
+	--img-size-sm: 20px;
+	--img-size-xsm: 16px;
+
+	--ver-margin: 3em;
+
+	--hor-pad: 2em;
+
+	--button-ver-pad: 0.8em;
+	--button-hor-pad: 1.2em;
+	--button-border-radius: 10px;
+}
+
+body {
+	padding: 0;
+	margin: 0;
+	font-family: sans-serif;
+	background: var(--green-tint);
+}
+
+#root {
+	width: 100%;
+}
