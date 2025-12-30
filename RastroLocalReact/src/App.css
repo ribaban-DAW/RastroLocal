@@ -37,7 +37,7 @@
 }
 
 .nav__link {
-	color: var(white);
+	color: var(--white);
 	text-decoration: none;
 }
 
