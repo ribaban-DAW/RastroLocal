@@ -28,6 +28,6 @@ Ejecutar el servidor
 pnpm dev
 ```
 
-> [!NOTA]
+> [!NOTE]
 >
 > Puedes utilizar `npm` en lugar de `pnpm` si no lo tienes
